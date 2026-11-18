@@ -1,0 +1,6 @@
+{
+  "name": "FinanIA — Agente Inteligente de Educação Financeira",
+  "description": "Assistente virtual especializado em educação financeira e gerenciamento de finanças pessoais com inteligência artificial Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
